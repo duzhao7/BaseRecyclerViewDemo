@@ -426,6 +426,10 @@ public class BaseRecycleView extends RecyclerView {
             }
         }
 
+
+
+
+
         @Override
         public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             if (viewType == TYPE_HEADER)
